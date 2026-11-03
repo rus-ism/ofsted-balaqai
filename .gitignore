@@ -1,0 +1,13 @@
+.env
+sqldump.sql
+meta.json
+
+/files/*
+!/files/wp-content/
+/files/wp-content/*
+!/files/wp-content/themes/
+/files/wp-content/themes/*
+!/files/wp-content/themes/preschool-and-kindergarten-child/
+/files/wp-content/themes/preschool-and-kindergarten-child/**
+
+/files/wp-config.php
